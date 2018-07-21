@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Basics-CheatSheet", "CSharp-Basics-CheatSheet\CSharp-Basics-CheatSheet.csproj", "{CB30A100-27C6-4168-B6AE-5576583D7415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB30A100-27C6-4168-B6AE-5576583D7415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB30A100-27C6-4168-B6AE-5576583D7415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB30A100-27C6-4168-B6AE-5576583D7415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB30A100-27C6-4168-B6AE-5576583D7415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB7BF114-7438-4BE3-83B1-BB84D1557C4C}
+	EndGlobalSection
+EndGlobal
