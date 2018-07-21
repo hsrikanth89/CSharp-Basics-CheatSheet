@@ -10,6 +10,8 @@ namespace CSharp_Basics_CheatSheet
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
